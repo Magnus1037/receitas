@@ -1,0 +1,105 @@
+header{
+    background-color: rgb(233, 93, 93);
+    border:solid 5px;
+}
+nav{
+    background-color: green;
+    border:solid 5px;
+}
+main{
+    height: 700px;
+    width: max-content;
+    background-color: rgb(147, 147, 255);
+    border:solid 5px;
+}
+footer{
+    height: 1%;
+    background-color: rgba(165, 42, 42, 0.479);
+    border:solid 5px;
+}
+#section_mais{
+    float: right;
+    text-align: right;
+    margin-right: 1%;
+}
+#section_menos{
+    float: left;
+    text-align: left;
+    margin-left: 1%;
+}
+
+img{
+    margin: 8%;
+    margin-top: 1%;
+    max-height: 40%;
+    max-width: 40%;
+
+}
+
+#div_main{
+    margin: 1%;
+    margin-bottom: 0%;
+    height: 90%;
+    width: 98%;
+    background-color: rgb(147, 147, 255);
+}
+
+.divz{
+    height: 100%;
+    width: 33%;
+    text-align: center;
+    border:solid 5px;
+}
+
+.divz_h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+    text-decoration: underline black;
+
+}
+
+.divz_p{
+    font-weight: 600;
+    font-size: large;
+}
+
+#div_botoes{
+    margin: 0.5%;
+    margin-left: 1%;
+    height: 7%;
+    width: 98%;
+    background-color: rgb(147, 147, 255);
+}
+
+.ver_mais {
+    height: 95%;
+    width: 33%;
+    border:solid 3px;
+    font-weight: bold;
+}
+
+#div_cadastro{
+    height: 90%;
+    width: 98%;
+    margin: 1%;
+    border:solid 3px;
+    align-items: center;
+    text-align: center;
+}
+
+.inputt{
+    width: 80%;
+    margin: 0.5%;
+
+}
+
+.inputt label{
+    width: 20%;
+}
+
+#quadro{
+    width: 90%;
+    height: 80%;
+    margin: 10%;
+}
